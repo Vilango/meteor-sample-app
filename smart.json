@@ -1,0 +1,13 @@
+{
+  "packages": {
+    "iron-router": {},
+    "velocity": {
+      "git": "https://github.com/xolvio/velocity"
+    },
+    "mocha-web": {
+      "git": "https://github.com/mad-eye/meteor-mocha-web",
+      "branch": "mtr"
+    },
+    "velocity-jasmine-unit": {}
+  }
+}
