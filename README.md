@@ -1,7 +1,15 @@
 # Meteor Sample App
 
 This is a metor sample app created with the [em tool](https://github.com/EventedMind/em).
-It is a test to see test issues with [velocity](https://github.com/xolvio/velocity)
+It is a test to see test issues with [velocity](https://github.com/xolvio/velocity).
+
+
+## Running
+
+To run the app you just need to call:
+```
+DEBUG=1 mrt
+```
 
 
 ## Here's how the app was created:
