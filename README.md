@@ -38,7 +38,7 @@ and these lines to `.meteor/packages`
 ```
 
 ```
-mrt add velocity-jasmine-unit
+mrt add jasmine-unit
 em g:scaffold todos
 
 DEBUG=1 mrt

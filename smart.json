@@ -6,8 +6,8 @@
     },
     "mocha-web": {
       "git": "https://github.com/mad-eye/meteor-mocha-web",
-      "branch": "mtr"
+      "branch": "velocity"
     },
-    "velocity-jasmine-unit": {}
+    "jasmine-unit": {}
   }
 }
