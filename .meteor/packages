@@ -10,4 +10,4 @@ iron-router
 coffeescript
 velocity
 mocha-web
-velocity-jasmine-unit
+jasmine-unit
